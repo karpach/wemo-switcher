@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="readme.md" />
     <None Include="Service References\WemoService\BasicService.wsdl" />
     <None Include="Service References\WemoService\Karpach.Wemo.Switcher.WemoService.ChangeFriendlyNameResponse.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
