@@ -11,4 +11,4 @@ The application stays in notification tray and can be used to turn on / off Wemo
 * Make shortcuts configurable
 
 ## Disclaimer
-The application works only in Windows 7 for now.
+For now the application works only in Windows 7.
